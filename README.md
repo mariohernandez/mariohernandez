@@ -9,7 +9,7 @@ I am a Front-end developer who specializes in [Drupal](https://drupal.org) front
 * 🌍  I'm based in Los Angeles
 * 🖥️  Read my blogs on [mariohernandez.io](https://mariohernandez.io)
 * ✉️  You can contact me at [hello@mariohernandez.io](mailto:hello@mariohernandez.io)
-* 🧠  I work at [Red Hat](https://redhat.com) as a Software Engineer
+* 🧠  I work at [UCLA Health](https://www.uclahealth.org/) as a Software Engineer
 
 [![](https://komarev.com/ghpvc/?username=mariohernandez)](https://komarev.com/ghpvc/?username=mariohernandez)
 
