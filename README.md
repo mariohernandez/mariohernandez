@@ -4,12 +4,11 @@
 ### Front-end developer
 
 
-I am a Front-end developer who specializes in [Drupal](https://drupal.org) front-end development and theming.  I have been building Drupal websites since 2008 and have worked on some of the most well known brands.  I am also a speaker at open source events where I talk about all things front-end and Drupal.
+I am a Front-end Engineer who specializes in [Drupal](https://drupal.org) front-end development.  I have been building Drupal websites since 2008 and have worked on some of the most well known brands.  I am also a speaker at open source events where I talk about all things front-end and Drupal. I love writing about Drupal and Front-end development in general in my personal blog.
 
 * 🌍  I'm based in Los Angeles
 * 🖥️  Read my blogs on [mariohernandez.io](https://mariohernandez.io)
-* ✉️  You can contact me at [hello@mariohernandez.io](mailto:hello@mariohernandez.io)
-* 🧠  I work at [UCLA Health](https://www.uclahealth.org/) as a Software Engineer
+* 🧠  I work at [UCLA Health](https://www.uclahealth.org/) as a Sr. Drupal Front-end Developer
 
 [![](https://komarev.com/ghpvc/?username=mariohernandez)](https://komarev.com/ghpvc/?username=mariohernandez)
 
